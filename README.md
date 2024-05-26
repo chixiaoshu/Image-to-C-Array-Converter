@@ -27,3 +27,7 @@ python image2array.py glass-heart_128x128.png testoutput.txt
 ```
 
 #### 就会得到指定.txt文件
+
+## 展示
+
+![Output Content](example/output_content.jpg)
